@@ -60,7 +60,7 @@ systems to extend this howto.
    by running:
 
     ```
-    sudo pip install gmusicapi==10.1.2
+    sudo pip install gmusicapi
     ```
 
 1. The Google Music plugin requires the perl modules Inline::Python and IO::Socket::SSL
